@@ -1,6 +1,7 @@
+<img align="center" alt="coding" width="full" src="[https://i.pinimg.com/originals/81/17/8b/811799f2cdd4057.gif8b47a8598f0c81c47](https://www.facebook.com/photo/?fbid=3550636668551595&set=a.1384578701824080)">
 <h1 align="center">Hi 👋, I'm Adnan Rony</h1>
-<h3 align="center">i am junior web devoloper</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<h2 align="center">i am junior web devoloper</h3>
+<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan-rony&label=Profile%20views&color=0e75b6&style=flat" alt="adnan-rony" /> </p>
 
