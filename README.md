@@ -1,8 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Adnan Rony</h1>
-<h2 align="center">i am junior web devoloper</h3>
-
-
 <img align="center" alt="coding" width="" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif">
 
 
