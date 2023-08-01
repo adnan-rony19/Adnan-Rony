@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Adnan Rony</h1>
 <h2 align="center">i am junior web devoloper</h3>
 
-<img align="center" alt="coding" width="400" src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)">
+
+<img align="center" alt="coding" width="" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan-rony&label=Profile%20views&color=0e75b6&style=flat" alt="adnan-rony" /> </p>
