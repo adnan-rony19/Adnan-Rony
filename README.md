@@ -1,5 +1,5 @@
 
-<img align="center" alt="coding" width="" src="[https://i.ibb.co/7NmwJTX/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://i.ibb.co/zrqqsg4/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png)">
+<img align="center" alt="coding" width="" src="https://i.ibb.co/zrqqsg4/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png">
 <!-- <img align="center" alt="coding" width="" src="https://i.ibb.co/7NmwJTX/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> -->
 
 
